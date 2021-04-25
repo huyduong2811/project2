@@ -1,0 +1,242 @@
+.black{
+    width: 100%;
+    height: 50px;
+    background-color: #555555;
+    color: white;
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+    font-size: 15px;
+      text-align: center  ;
+      position: fixed;
+      top: 0px;
+      align-items: center;
+      
+  }
+  .back{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+  }
+  .tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+  }
+  .whites{
+    width: 100%;
+    font-size: 15px;
+    padding: 4px;
+}
+.whites{
+    display: flex
+}
+h2{
+    color: #616161 !important;
+    padding-left: 20px;
+    margin-top: 0;
+}
+.images{
+    width: 280px;
+    padding-left: 107px;
+}
+.disroom{
+    width: 340px;
+    padding-left: 20px;
+}
+.price{
+    width: 50px;
+    padding-left: 103px;
+}   
+.space2{
+    height: 1px;
+    width: 390px;
+    background-color: orange;
+}
+.wifi2{
+    background-image: url('wifi.svg');
+    width: 25px;
+    height: 25px;
+}
+.desroom{
+    display: flex;
+    justify-content: space-between;
+}
+.AC{
+    background-image: url('snow.svg');
+    width: 25px;
+    height: 25px;
+}
+/* .TV{
+    background-image: url('computer.svg');
+    width: 25px;
+    height: 25px; */
+/* } */
+.safe{
+    background-image: url('safety-box.svg');
+    width: 25px;
+    height: 25px;
+}
+.minibar{
+    background-image: url('minibar.svg');
+    width: 25px;
+    height: 25px;
+}
+.telephone{
+    background-image: url('telephone.svg');
+    width: 25px;
+    height: 25px;
+}
+.towels{
+    background-image: url('towel.svg');
+    width: 25px;
+    height: 25px;
+}
+.size{
+    height: 183px;
+    width: 275px;
+}.shower{
+    background-image: url('shower.svg');
+    width: 25px;
+    height: 25px;
+}
+.kitchen{
+    background-image: url('knife.svg');
+    width: 25px;
+    height: 25px;
+}
+.bath{
+    background-image: url('bathtub.svg');
+    width: 25px;
+    height: 25px;
+}
+.workspace{
+    background-image: url('desk.svg');
+    width: 25px;
+    height: 25px;
+}
+.spcss{
+    width: 770px;
+    height: 1px;
+    background-color: orange;
+    justify-content: space-around;
+    margin-left: 111px;
+}
+.footer{
+    width: 100%;
+    height: 185px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.parts{
+    color: white;
+}
+.face{
+    background-image: url('facebook.svg');    
+    height: 20px;
+    width: 20px;
+}
+.twitter{
+    height: 20px;
+    width: 20px;
+    background-image: url('twitter.svg');
+}
+.pinterest{
+    height: 20px;
+    width: 20px;
+    background-image: url('pinterest.svg');
+}
+.linkedin{
+    width: 20px;
+    height: 20px;
+    background-image: url('linkedin.svg');
+}
+.ftpl{
+    display: flex;
+}
+.visa{
+    width: 20px;
+    height: 20px;
+    background-image: url('visa.svg');
+}
+.paypal{
+    width: 20px;
+    height: 20px;
+    background-image: url('paypal.svg');
+}
+.mastercard{
+    width: 20px;
+    height: 20px;
+    background-image:url('mastercard.svg') ;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+}
+.kio{
+    width: 70px;
+    height: 20px;
+    background-color: lightsalmon;
+    padding-left: 29px;
+}
+.footer{
+    width: 100%;
+    height: 185px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+  }
+  .parts{
+    color: white;
+  }
+  .face{
+    background-image: url('facebook.svg');    
+    height: 20px;
+    width: 20px;
+  }
+  .twitter{
+    height: 20px;
+    width: 20px;
+    background-image: url('twitter.svg');
+  }
+  .pinterest{
+    height: 20px;
+    width: 20px;
+    background-image: url('pinterest.svg');
+  }
+  .linkedin{
+    width: 20px;
+    height: 20px;
+    background-image: url('linkedin.svg');
+  }
+  .ftpl{
+    display: flex;
+  }
+  .visa{
+    width: 20px;
+    height: 20px;
+    background-image: url('visa.svg');
+  }
+  .paypal{
+    width: 20px;
+    height: 20px;
+    background-image: url('paypal.svg');
+  }
+  .mastercard{
+    width: 20px;
+    height: 20px;
+    background-image:url('mastercard.svg') ;
+  }
+  .card{
+    display: flex;
+    justify-content: space-between;
+  }
